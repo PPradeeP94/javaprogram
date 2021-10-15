@@ -99,3 +99,6 @@ public class String_Function {
 		String combine =s.combne
 		System.out.println(concat);
 		
+		String combine1 =s.combne1
+		System.out.println(concat);
+		
